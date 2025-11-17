@@ -56,5 +56,4 @@ public class Test_FactoryMethod_3 {
                 ShovelToken.class,
                 TokenFactory.createShovelToken());
     }
-
 }
